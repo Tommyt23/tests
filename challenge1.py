@@ -2,3 +2,4 @@ val = [5, 12, 8, 7, 5, 20, 15, 9, 3, 12, 14, 6, 18, 27, 8, 22, 5, 10, 13, 19, 23
 Search_term = 18
 
 print(val.index(Search_term))
+#hello
